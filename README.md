@@ -64,6 +64,13 @@ I specialize in building modern web applications, creating engaging user experie
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
 
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+
 ### 🚀 Deployment & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
@@ -75,6 +82,7 @@ I specialize in building modern web applications, creating engaging user experie
 ![Beginner Level Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
 ![Beginner Level C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![Beginner Level C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🎨 Graphic Design & Branding
 
